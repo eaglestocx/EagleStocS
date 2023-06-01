@@ -43708,13 +43708,13 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
-    min-height: 411px;
+    min-height: 346px;
   }
 
   .u-footer .u-text-1 {
     font-style: italic;
     font-weight: 700;
-    margin-top: 93px;
+    margin-top: 28px;
     margin-right: 36px;
     margin-left: -36px;
   }
